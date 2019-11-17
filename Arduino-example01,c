@@ -50,3 +50,4 @@ Serial.println("horizontal direction: " + String(mySensor.magHorizDirection()));
 Serial.println("at " + String(millis()) + "ms");
 delay(500);
 }
+```
